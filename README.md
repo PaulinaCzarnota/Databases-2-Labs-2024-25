@@ -2,7 +2,7 @@ This repository contains a collection of labs from the Databases 2 module in my 
 
 Each lab focuses on essential topics in database design, advanced SQL techniques, query optimization, and data structuring using PostgreSQL. 
 
-# Lab Summaries
+# Lab Summaries 
 
 ### Lab 1: Relational Database Design
 Explored core concepts in database modeling, including entity-relationship (ER) diagrams, relational modeling, and the physical implementation of these models in PostgreSQL.
