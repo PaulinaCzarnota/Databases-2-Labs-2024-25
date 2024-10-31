@@ -1,8 +1,8 @@
 This repository contains a collection of labs from the Databases 2 module in my third year of Computer Science at TU Dublin. 
 
-Each lab focuses on essential topics in database design, advanced SQL techniques, query optimization, and data structuring using PostgreSQL. 
-
 # Lab Summaries 
+
+Labs 1 to 5 focus on essential topics in database design, advanced SQL techniques, query optimization, and data structuring using PostgreSQL on DBeaver.
 
 ### Lab 1: Relational Database Design
 Explored core concepts in database modeling, including entity-relationship (ER) diagrams, relational modeling, and the physical implementation of these models in PostgreSQL.
