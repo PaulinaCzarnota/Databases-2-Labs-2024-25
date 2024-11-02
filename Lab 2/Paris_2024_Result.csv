@@ -1,0 +1,683 @@
+date,"""event_name""",gender,discipline_name,participant_name,participant_type,participant_country_code,participant_country,result,result_type
+2024-08-07,"""Men's Discus Throw""",M,Athletics,STONA Roje,Person,JAM,Jamaica,70,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,ALEKNA Mykolas,Person,LTU,Lithuania,69.97,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,DENNY Matthew,Person,AUS,Australia,69.31,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,CEH Kristjan,Person,SLO,Slovenia,68.41,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,WEISSHAIDINGER Lukas,Person,AUT,Austria,67.54,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,PRUEFER Clemens,Person,GER,Germany,67.41,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,STAHL Daniel,Person,SWE,Sweden,66.95,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,GUDZIUS Andrius,Person,LTU,Lithuania,66.55,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,MULLINGS Ralford,Person,JAM,Jamaica,65.61,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,SMIKLE Traves,Person,JAM,Jamaica,64.97,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,FIRFIRICA Alin Alexandru,Person,ROU,Romania,64.45,DISTANCE
+2024-08-07,"""Men's Discus Throw""",M,Athletics,ROSE Alex,Person,SAM,Samoa,61.89,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,KATZBERG Ethan,Person,CAN,Canada,84.12,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,HALASZ Bence,Person,HUN,Hungary,79.97,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,KOKHAN Mykhaylo,Person,UKR,Ukraine,79.39,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,HENRIKSEN Eivind,Person,NOR,Norway,79.18,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,FAJDEK Pawel,Person,POL,Poland,78.8,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,WINKLER Rudy,Person,USA,United States,77.92,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,NOWICKI Wojciech,Person,POL,Poland,77.42,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,CHAUSSINAND Yann,Person,FRA,France,77.38,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,HAMILTON Rowan,Person,CAN,Canada,76.59,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,HUMMEL Merlin,Person,GER,Germany,76.03,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,MARDAL Thomas,Person,NOR,Norway,74.25,DISTANCE
+2024-08-04,"""Men's Hammer Throw""",M,Athletics,FRANTZESKAKIS Christos,Person,GRE,Greece,73.34,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,KERR Hamish,Person,NZL,New Zealand,2.36,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,McEWEN Shelby,Person,USA,United States,2.36,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,BARSHIM Mutaz Essa,Person,QAT,Qatar,2.34,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,SOTTILE Stefano,Person,ITA,Italy,2.34,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,AKAMATSU Ryoichi,Person,JPN,Japan,2.31,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,DOROSHCHUK Oleh,Person,UKR,Ukraine,2.31,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,WOO Sanghyeok,Person,KOR,Korea,2.27,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,IVANOV Tihomir,Person,BUL,Bulgaria,2.27,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,STEFELA Jan,Person,CZE,Czechia,2.22,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,BECKFORD Romaine,Person,JAM,Jamaica,2.22,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,TAMBERI Gianmarco,Person,ITA,Italy,2.22,DISTANCE
+2024-08-10,"""Men's High Jump""",M,Athletics,RAATS Brian,Person,RSA,South Africa,2.17,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,NADEEM Arshad,Person,PAK,Pakistan,92.97,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,CHOPRA Neeraj,Person,IND,India,89.45,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,PETERS Anderson,Person,GRN,Grenada,88.54,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,VADLEJCH Jakub,Person,CZE,Czechia,88.5,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,YEGO Julius,Person,KEN,Kenya,87.72,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,WEBER Julian,Person,GER,Germany,87.4,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,WALCOTT Keshorn,Person,TTO,Trinidad and Tobago,86.16,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,ETELATALO Lassi,Person,FIN,Finland,84.58,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,HELANDER Oliver,Person,FIN,Finland,82.68,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,KERANEN Toni,Person,FIN,Finland,80.92,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,da SILVA Luiz Mauricio,Person,BRA,Brazil,80.67,DISTANCE
+2024-08-08,"""Men's Javelin Throw""",M,Athletics,MARDARE Andrian,Person,MDA,Republic of Moldova,80.1,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,TENTOGLOU Miltiadis,Person,GRE,Greece,8.48,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,PINNOCK Wayne,Person,JAM,Jamaica,8.36,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,FURLANI Mattia,Person,ITA,Italy,8.34,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,EHAMMER Simon,Person,SUI,Switzerland,8.2,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,FINCHAM-DUKES Jacob,Person,GBR,Great Britain,8.14,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,BATZ Simon,Person,GER,Germany,8.07,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,ZHANG Mingkun,Person,CHN,China,8.07,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,WANG Jianan,Person,CHN,China,8.03,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,PRAVDICA Filip,Person,CRO,Croatia,7.9,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,JUSKA Radek,Person,CZE,Czechia,7.83,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,DALMERO Arnovis,Person,COL,Colombia,7.83,DISTANCE
+2024-08-06,"""Men's Long Jump""",M,Athletics,McLEOD Carey,Person,JAM,Jamaica,7.82,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,DUPLANTIS Armand,Person,SWE,Sweden,6.25,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,KENDRICKS Sam,Person,USA,United States,5.95,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,KARALIS Emmanouil,Person,GRE,Greece,5.9,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,OBIENA Ernest John,Person,PHI,Philippines,5.9,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,SASMA Ersu,Person,TUR,Turkey,5.85,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,MARSCHALL Kurtis,Person,AUS,Australia,5.85,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,HUANG Bokai,Person,CHN,China,5.8,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,GUTTORMSEN Sondre,Person,NOR,Norway,5.8,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,LITA BAEHRE Bo Kanda,Person,GER,Germany,5.7,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,ZERNIKEL Oleg,Person,GER,Germany,5.7,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,VLOON Menno,Person,NED,Netherlands,5.7,DISTANCE
+2024-08-05,"""Men's Pole Vault""",M,Athletics,KREISS Valters,Person,LAT,Latvia,5.5,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,CROUSER Ryan,Person,USA,United States,22.9,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,KOVACS Joe,Person,USA,United States,22.15,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,CAMPBELL Rajindra,Person,JAM,Jamaica,22.15,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,OTTERDAHL Payton,Person,USA,United States,22.03,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,FABBRI Leonardo,Person,ITA,Italy,21.7,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,ENEKWECHI Chukwuebuka Cornnell,Person,NGR,Nigeria,21.42,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,GILL Jacko,Person,NZL,New Zealand,21.15,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,MUNOZ Uziel,Person,MEX,Mexico,20.88,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,THOMSEN Marcus,Person,NOR,Norway,20.67,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,STANEK Tomas,Person,CZE,Czechia,20.37,DISTANCE
+2024-08-03,"""Men's Shot Put""",M,Athletics,WEIR Zane,Person,ITA,Italy,20.24,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,DIAZ FORTUN Jordan Alejandro,Person,ESP,Spain,17.86,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,PICHARDO Pedro,Person,POR,Portugal,17.84,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,DIAZ HERNANDEZ Andy,Person,ITA,Italy,17.64,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,HIBBERT Jaydon,Person,JAM,Jamaica,17.61,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,ZANGO Hugues Fabrice,Person,BUR,Burkina Faso,17.5,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,MANE Salif,Person,USA,United States,17.41,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,HESS Max,Person,GER,Germany,17.38,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,MARTINEZ Lazaro,Person,CUB,Cuba,17.34,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,TRIKI Yasser Mohammed,Person,ALG,Algeria,17.22,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,ZHU Yaming,Person,CHN,China,16.76,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,dos SANTOS Almir,Person,BRA,Brazil,16.41,DISTANCE
+2024-08-09,"""Men's Triple Jump""",M,Athletics,MURPHY Connor,Person,AUS,Australia,16.3,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,ALLMAN Valarie,Person,USA,United States,69.5,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,FENG Bin,Person,CHN,China,67.51,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,ELKASEVIC Sandra,Person,CRO,Croatia,67.51,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,STEINACKER Marike,Person,GER,Germany,65.37,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,KAMGA Vanessa,Person,SWE,Sweden,65.05,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,VITA Claudine,Person,GER,Germany,63.62,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,van KLINKEN Jorinde,Person,NED,Netherlands,63.35,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,OSAKUE Daisy,Person,ITA,Italy,63.11,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,RODRIGUES Irina,Person,POR,Portugal,61.19,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,PUDENZ Kristin,Person,GER,Germany,60.38,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,EMILIANOV Alexandra,Person,MDA,Republic of Moldova,58.08,DISTANCE
+2024-08-05,"""Women's Discus Throw""",W,Athletics,ROBERT-MICHON Melina,Person,FRA,France,57.03,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,ROGERS Camryn,Person,CAN,Canada,76.97,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,ECHIKUNWOKE Annette Nneka,Person,USA,United States,75.48,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,ZHAO Jie,Person,CHN,China,74.27,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,WLODARCZYK Anita,Person,POL,Poland,74.23,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,KOSONEN Silja,Person,FIN,Finland,74.04,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,TERVO Krista,Person,FIN,Finland,73.83,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,SKYDAN Hanna,Person,AZE,Azerbaijan,73.66,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,RODRIGUEZ Rosa Andreina,Person,VEN,Venezuela,72.98,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,GHELBER Bianca Florentina,Person,ROU,Romania,72.36,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,JACOBSEN Katrine Koch,Person,DEN,Denmark,71.65,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,PRICE Deanna,Person,USA,United States,71,DISTANCE
+2024-08-06,"""Women's Hammer Throw""",W,Athletics,FANTINI Sara,Person,ITA,Italy,69.58,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,MAHUCHIKH Yaroslava,Person,UKR,Ukraine,2,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,OLYSLAGERS Nicola,Person,AUS,Australia,2,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,GERASHCHENKO Iryna,Person,UKR,Ukraine,1.95,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,PATTERSON Eleanor,Person,AUS,Australia,1.95,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,CUNNINGHAM Vashti,Person,USA,United States,1.95,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,HONSEL Christina,Person,GER,Germany,1.95,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,KULICHENKO Elena,Person,CYP,Cyprus,1.95,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,SADULLAYEVA Safina,Person,UZB,Uzbekistan,1.95,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,GUSIN Tatiana,Person,GRE,Greece,1.86,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,SAVASKAN Buse,Person,TUR,Turkey,1.86,DISTANCE
+2024-08-04,"""Women's High Jump""",W,Athletics,MENIKER Nawal,Person,FRA,France,1.86,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,KITAGUCHI Haruka,Person,JPN,Japan,65.8,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,van DYK Jo-Ane,Person,RSA,South Africa,63.93,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,OGRODNIKOVA Nikola,Person,CZE,Czechia,63.68,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,KOLAK Sara,Person,CRO,Croatia,63.4,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,RUIZ HURTADO Flor Denis,Person,COL,Colombia,63,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,AGUILAR Yulenmis,Person,ESP,Spain,62.78,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,MITCHELL Kathryn,Person,AUS,Australia,62.63,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,ANDREJCZYK Maria,Person,POL,Poland,62.44,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,TZENGKO Elina,Person,GRE,Greece,61.85,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,UEDA Momone,Person,JPN,Japan,61.64,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,OBST Marie-Therese,Person,NOR,Norway,61.14,DISTANCE
+2024-08-10,"""Women's Javelin Throw""",W,Athletics,LITTLE Mackenzie,Person,AUS,Australia,60.32,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,DAVIS-WOODHALL Tara,Person,USA,United States,7.1,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,MIHAMBO Malaika,Person,GER,Germany,6.98,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,MOORE Jasmine,Person,USA,United States,6.96,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,IAPICHINO Larissa,Person,ITA,Italy,6.87,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,BRUME Ese,Person,NGR,Nigeria,6.7,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,NICHOLS Monae',Person,USA,United States,6.67,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,ROTARU-KOTTMANN Alina,Person,ROU,Romania,6.67,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,SMITH Ackelia,Person,JAM,Jamaica,6.66,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,KOALA Marthe,Person,BUR,Burkina Faso,6.61,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,USORO Ruth,Person,NGR,Nigeria,6.58,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,KPATCHA Hilary,Person,FRA,France,6.56,DISTANCE
+2024-08-08,"""Women's Long Jump""",W,Athletics,OCHONOGOR Prestina Oluchi,Person,NGR,Nigeria,6.24,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,KENNEDY Nina,Person,AUS,Australia,4.9,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,MOON Katie,Person,USA,United States,4.85,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,NEWMAN Alysha,Person,CAN,Canada,4.85,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,MOSER Angelica,Person,SUI,Switzerland,4.8,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,SVABIKOVA Amalie,Person,CZE,Czechia,4.8,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,McCARTNEY Eliza,Person,NZL,New Zealand,4.7,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,MOLINAROLO Elisa,Person,ITA,Italy,4.7,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,MURTO Wilma,Person,FIN,Finland,4.7,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,STEFANIDI Aikaterini,Person,GRE,Greece,4.7,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,PEINADO Robeilys,Person,VEN,Venezuela,4.6,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,BONNIN Marie-Julie,Person,FRA,France,4.6,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,AYRIS Imogen,Person,NZL,New Zealand,4.6,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,McTAGGART Olivia,Person,NZL,New Zealand,4.6,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,BRUNI Roberta,Person,ITA,Italy,4.4,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,CHAPELLE Ninon,Person,FRA,France,4.4,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,KNAESCHE Anjuli,Person,GER,Germany,4.4,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,LAMPELA Elina,Person,FIN,Finland,4.4,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,RETZIUS Lene Onsrud,Person,NOR,Norway,4.4,DISTANCE
+2024-08-07,"""Women's Pole Vault""",W,Athletics,SUTEJ Tina,Person,SLO,Slovenia,4.4,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,OGUNLEYE Yemisi,Person,GER,Germany,20,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,WESCHE Maddison-Lee,Person,NZL,New Zealand,19.86,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,SONG Jiayuan,Person,CHN,China,19.32,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,ROSS Jaida,Person,USA,United States,19.28,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,GONG Lijiao,Person,CHN,China,19.27,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,SCHILDER Jessica,Person,NED,Netherlands,18.91,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,ROOS Fanny,Person,SWE,Sweden,18.78,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,INCHUDE Jessica,Person,POR,Portugal,18.41,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,KENZEL Alina,Person,GER,Germany,18.29,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,JOHANSSON Axelina,Person,SWE,Sweden,18.03,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,SAUNDERS Raven,Person,USA,United States,17.79,DISTANCE
+2024-08-09,"""Women's Shot Put""",W,Athletics,MITTON Sarah,Person,CAN,Canada,17.48,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,LAFOND Thea,Person,DMA,Dominica,15.02,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,RICKETTS Shanieka,Person,JAM,Jamaica,14.87,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,MOORE Jasmine,Person,USA,United States,14.67,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,POVEA Liadagmis,Person,CUB,Cuba,14.64,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,PEREZ HERNANDEZ Leyanis,Person,CUB,Cuba,14.62,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,PELETEIRO-COMPAORE Ana,Person,ESP,Spain,14.59,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,SMITH Ackelia,Person,JAM,Jamaica,14.42,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,DERKACH Dariya,Person,ITA,Italy,14.14,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,ORJI Keturah,Person,USA,United States,14.05,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,TALOS Elena Andreea,Person,ROU,Romania,14.03,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,BEKH-ROMANCHUK Maryna,Person,UKR,Ukraine,13.98,DISTANCE
+2024-08-03,"""Women's Triple Jump""",W,Athletics,GUILLAUME Ilionis,Person,FRA,France,13.78,DISTANCE
+2024-08-04,"""4 x 400m Relay Mixed""",X,Athletics,Netherlands,Team,NED,Netherlands,187,TIME
+2024-08-04,"""4 x 400m Relay Mixed""",X,Athletics,United States of America,Team,USA,United States,187.7,TIME
+2024-08-04,"""4 x 400m Relay Mixed""",X,Athletics,Great Britain,Team,GBR,Great Britain,188,TIME
+2024-08-04,"""4 x 400m Relay Mixed""",X,Athletics,Belgium,Team,BEL,Belgium,189.4,TIME
+2024-08-04,"""4 x 400m Relay Mixed""",X,Athletics,Jamaica,Team,JAM,Jamaica,192.1,TIME
+2024-08-04,"""4 x 400m Relay Mixed""",X,Athletics,Italy,Team,ITA,Italy,192.2,TIME
+2024-08-04,"""4 x 400m Relay Mixed""",X,Athletics,Poland,Team,POL,Poland,192.4,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,MARTIN A / PEREZ M,Team,ESP,Spain,10231,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,PINTADO BD / MOREJON G,Team,ECU,Ecuador,10282,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,COWLEY R / MONTAG J,Team,AUS,Australia,10298,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,RODRIGUEZ/GARCIA LEON,Team,PER,Peru,10316,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,PALMA OLIVARES/GONZALEZ,Team,MEX,Mexico,10358,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,STANO M / PALMISANO A,Team,ITA,Italy,10432,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,BONFIM C / LYRA V,Team,BRA,Brazil,10448,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,KAWANO M / OKADA K,Team,JPN,Japan,10540,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,LOPEZ MA / MONTESINOS C,Team,ESP,Spain,10570,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,LINKE C / FEIGE S,Team,GER,Germany,10574,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,QUINION A / BERETTA C,Team,FRA,France,10614,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,ROMERO M / ARENAS L,Team,COL,Colombia,10674,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,TAKAHASHI K / YANAI A,Team,JPN,Japan,10688,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,HE X / QIEYANG S,Team,CHN,China,10753,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,ZHANG Jun / YANG Jiayu,Team,CHN,China,10843,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,BEN HLIMA M / CHOJECKA O,Team,POL,Poland,10855,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,BANZERUK I / OLYANOVSKA L,Team,UKR,Ukraine,10910,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,CERNY D / BURZALOVA H,Team,SVK,Slovakia,11034,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,HERRERA/MOJICA CHALARCA,Team,COL,Colombia,11036,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,DUNFEE E / LUNDMAN O,Team,CAN,Canada,11097,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,VENYERCSAN B / RECSEI R,Team,HUN,Hungary,11118,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,TINGAY D / HENDERSON R,Team,AUS,Australia,11361,TIME
+2024-08-07,"""Marathon Race Walk Relay Mixed""",X,Athletics,DEMIR M / TEKDAL A,Team,TUR,Turkey,11693,TIME
+2024-08-04,"""Men's 100m""",M,Athletics,LYLES Noah,Person,USA,United States,9.79,TIME
+2024-08-04,"""Men's 100m""",M,Athletics,THOMPSON Kishane,Person,JAM,Jamaica,9.79,TIME
+2024-08-04,"""Men's 100m""",M,Athletics,KERLEY Fred,Person,USA,United States,9.81,TIME
+2024-08-04,"""Men's 100m""",M,Athletics,SIMBINE Akani,Person,RSA,South Africa,9.82,TIME
+2024-08-04,"""Men's 100m""",M,Athletics,JACOBS Lamont Marcell,Person,ITA,Italy,9.85,TIME
+2024-08-04,"""Men's 100m""",M,Athletics,TEBOGO Letsile,Person,BOT,Botswana,9.86,TIME
+2024-08-04,"""Men's 100m""",M,Athletics,BEDNAREK Kenneth,Person,USA,United States,9.88,TIME
+2024-08-04,"""Men's 100m""",M,Athletics,SEVILLE Oblique,Person,JAM,Jamaica,9.91,TIME
+2024-08-08,"""Men's 110m Hurdles""",M,Athletics,HOLLOWAY Grant,Person,USA,United States,12.99,TIME
+2024-08-08,"""Men's 110m Hurdles""",M,Athletics,ROBERTS Daniel,Person,USA,United States,13.09,TIME
+2024-08-08,"""Men's 110m Hurdles""",M,Athletics,BROADBELL Rasheed,Person,JAM,Jamaica,13.09,TIME
+2024-08-08,"""Men's 110m Hurdles""",M,Athletics,LLOPIS Enrique,Person,ESP,Spain,13.2,TIME
+2024-08-08,"""Men's 110m Hurdles""",M,Athletics,MURATAKE Rachid,Person,JPN,Japan,13.21,TIME
+2024-08-08,"""Men's 110m Hurdles""",M,Athletics,CRITTENDEN Freddie,Person,USA,United States,13.32,TIME
+2024-08-08,"""Men's 110m Hurdles""",M,Athletics,BENNETT Orlando,Person,JAM,Jamaica,13.34,TIME
+2024-08-08,"""Men's 110m Hurdles""",M,Athletics,PARCHMENT Hansle,Person,JAM,Jamaica,13.39,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,HOCKER Cole,Person,USA,United States,207.6,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,KERR Josh,Person,GBR,Great Britain,207.8,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,NUGUSE Yared,Person,USA,United States,207.8,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,INGEBRIGTSEN Jakob,Person,NOR,Norway,208.2,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,KESSLER Hobbs,Person,USA,United States,209.4,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,LAROS Niels,Person,NED,Netherlands,210.5,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,NORDAS Narve Gilje,Person,NOR,Norway,210.5,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,ARESE Pietro,Person,ITA,Italy,210.7,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,NILLESSEN Stefan,Person,NED,Netherlands,210.7,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,GOURLEY Neil,Person,GBR,Great Britain,210.9,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,CHERUIYOT Timothy,Person,KEN,Kenya,211.3,TIME
+2024-08-06,"""Men's 1500m""",M,Athletics,KOMEN Brian,Person,KEN,Kenya,215.6,TIME
+2024-08-08,"""Men's 200m""",M,Athletics,TEBOGO Letsile,Person,BOT,Botswana,19.46,TIME
+2024-08-08,"""Men's 200m""",M,Athletics,BEDNAREK Kenneth,Person,USA,United States,19.62,TIME
+2024-08-08,"""Men's 200m""",M,Athletics,LYLES Noah,Person,USA,United States,19.7,TIME
+2024-08-08,"""Men's 200m""",M,Athletics,KNIGHTON Erriyon,Person,USA,United States,19.99,TIME
+2024-08-08,"""Men's 200m""",M,Athletics,OGANDO Alexander,Person,DOM,Dominican Republic,20.02,TIME
+2024-08-08,"""Men's 200m""",M,Athletics,MAKARAWU Tapiwanashe,Person,ZIM,Zimbabwe,20.1,TIME
+2024-08-08,"""Men's 200m""",M,Athletics,FAHNBULLEH Joseph,Person,LBR,Liberia,20.15,TIME
+2024-08-08,"""Men's 200m""",M,Athletics,CHARAMBA Makanakaishe,Person,ZIM,Zimbabwe,20.53,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,PINTADO Brian Daniel,Person,ECU,Ecuador,4735,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,BONFIM Caio,Person,BRA,Brazil,4749,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,MARTIN Alvaro,Person,ESP,Spain,4751,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,STANO Massimo,Person,ITA,Italy,4752,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,DUNFEE Evan,Person,CAN,Canada,4756,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,WAKUMA Misgana,Person,ETH,Ethiopia,4771,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,IKEDA Koki,Person,JPN,Japan,4781,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,KOGA Yuta,Person,JPN,Japan,4790,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,QUINION Aurelien,Person,FRA,France,4796,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,ZHANG Jun,Person,CHN,China,4796,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,TINGAY Declan,Person,AUS,Australia,4796,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,COWLEY Rhydian,Person,AUS,Australia,4804,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,CHAMA Noel,Person,MEX,Mexico,4819,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,ORTIZ Ricardo,Person,MEX,Mexico,4827,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,HURTADO David,Person,ECU,Ecuador,4830,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,WILKINSON Callum,Person,GBR,Great Britain,4831,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,McGRATH Paul,Person,ESP,Spain,4832,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,HAMANISHI Ryo,Person,JPN,Japan,4833,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,LINKE Christopher,Person,GER,Germany,4835,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,FORTUNATO Francesco,Person,ITA,Italy,4838,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,KARLSTROM Perseus,Person,SWE,Sweden,4865,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,GATHIMBA Samuel Kireri,Person,KEN,Kenya,4886,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,KOEPP Leo,Person,GER,Germany,4896,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,BORDIER Gabriel,Person,FRA,France,4900,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,JIMENEZ ARROBO Jordy Rafael,Person,ECU,Ecuador,4904,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,CAMPOS Luis Henry,Person,PER,Peru,4920,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,BRZOZOWSKI Artur,Person,POL,Poland,4931,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,GONCALVES dos SANTOS Max Batista,Person,BRA,Brazil,4936,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,BEN HLIMA Maher,Person,POL,Poland,4954,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,SINGH Vikash,Person,IND,India,4956,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,LI Yandong,Person,CHN,China,4966,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,PARTANEN Veli-Matti,Person,FIN,Finland,4976,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,GARCIA CARRERA Diego,Person,ESP,Spain,4990,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,CERNY Dominik,Person,SVK,Slovakia,5005,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,SWAN Kyle,Person,AUS,Australia,5012,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,WANG Zhaozhao,Person,CHN,China,5020,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,BISHT Paramjeet Singh,Person,IND,India,5028,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,BARRONDO Jose Alejandro,Person,GUA,Guatemala,5057,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,CORREA Matheus,Person,BRA,Brazil,5065,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,HLAVAN Ihor,Person,UKR,Ukraine,5092,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,ORSONI Riccardo,Person,ITA,Italy,5108,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,CHOE Byeongkwang,Person,KOR,Korea,5175,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,BARRONDO Erick Bernabe,Person,GUA,Guatemala,5179,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,HELEBRANDT Mate,Person,HUN,Hungary,5237,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,KORKMAZ Salih,Person,TUR,Turkey,5345,TIME
+2024-08-01,"""Men's 20km Race Walk""",M,Athletics,VENYERCSAN Bence,Person,HUN,Hungary,5354,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,EL BAKKALI Soufiane,Person,MAR,Morocco,486.1,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,ROOKS Kenneth,Person,USA,United States,486.4,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,KIBIWOT Abraham,Person,KEN,Kenya,486.5,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,JHINAOUI Mohamed Amin,Person,TUN,Tunisia,487.7,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,JAZIRI Ahmed,Person,TUN,Tunisia,488,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,FIREWU Samuel,Person,ETH,Ethiopia,488.9,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,KOECH Simon Kiprop,Person,KEN,Kenya,489.3,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,MIURA Ryuji,Person,JPN,Japan,491.7,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,WALE Getnet,Person,ETH,Ethiopia,492.3,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,ARCE Daniel,Person,ESP,Spain,493.8,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,SABLE Avinash Mukund,Person,IND,India,494.2,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,TINDOUFT Mohamed,Person,MAR,Morocco,494.8,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,DESGAGNES Jean-Simon,Person,CAN,Canada,499.3,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,SEREM Amos,Person,KEN,Kenya,499.7,TIME
+2024-08-07,"""Men's 3000m Steeplechase""",M,Athletics,CHEMUTAI Leonard,Person,UGA,Uganda,500,TIME
+2024-08-09,"""Men's 4 x 100m Relay""",M,Athletics,Canada,Team,CAN,Canada,37.5,TIME
+2024-08-09,"""Men's 4 x 100m Relay""",M,Athletics,South Africa,Team,RSA,South Africa,37.57,TIME
+2024-08-09,"""Men's 4 x 100m Relay""",M,Athletics,Great Britain,Team,GBR,Great Britain,37.61,TIME
+2024-08-09,"""Men's 4 x 100m Relay""",M,Athletics,Italy,Team,ITA,Italy,37.68,TIME
+2024-08-09,"""Men's 4 x 100m Relay""",M,Athletics,Japan,Team,JPN,Japan,37.78,TIME
+2024-08-09,"""Men's 4 x 100m Relay""",M,Athletics,France,Team,FRA,France,37.81,TIME
+2024-08-09,"""Men's 4 x 100m Relay""",M,Athletics,People's Republic of China,Team,CHN,China,38.06,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,United States of America,Team,USA,United States,174.4,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,Botswana,Team,BOT,Botswana,175.5,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,Great Britain,Team,GBR,Great Britain,175.8,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,Belgium,Team,BEL,Belgium,177.7,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,South Africa,Team,RSA,South Africa,178.1,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,Japan,Team,JPN,Japan,178.3,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,Italy,Team,ITA,Italy,179.7,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,Zambia,Team,ZAM,Zambia,182.8,TIME
+2024-08-10,"""Men's 4 x 400m Relay""",M,Athletics,France,Team,FRA,France,187.3,TIME
+2024-08-07,"""Men's 400m""",M,Athletics,HALL Quincy,Person,USA,United States,43.4,TIME
+2024-08-07,"""Men's 400m""",M,Athletics,HUDSON-SMITH Matthew,Person,GBR,Great Britain,43.44,TIME
+2024-08-07,"""Men's 400m""",M,Athletics,SAMUKONGA Muzala,Person,ZAM,Zambia,43.74,TIME
+2024-08-07,"""Men's 400m""",M,Athletics,RICHARDS Jereem,Person,TTO,Trinidad and Tobago,43.78,TIME
+2024-08-07,"""Men's 400m""",M,Athletics,JAMES Kirani,Person,GRN,Grenada,43.87,TIME
+2024-08-07,"""Men's 400m""",M,Athletics,BAILEY Christopher,Person,USA,United States,44.58,TIME
+2024-08-07,"""Men's 400m""",M,Athletics,OGAZI Samuel,Person,NGR,Nigeria,44.73,TIME
+2024-08-07,"""Men's 400m""",M,Athletics,NORMAN Michael,Person,USA,United States,45.62,TIME
+2024-08-09,"""Men's 400m Hurdles""",M,Athletics,BENJAMIN Rai,Person,USA,United States,46.46,TIME
+2024-08-09,"""Men's 400m Hurdles""",M,Athletics,WARHOLM Karsten,Person,NOR,Norway,47.06,TIME
+2024-08-09,"""Men's 400m Hurdles""",M,Athletics,dos SANTOS Alison,Person,BRA,Brazil,47.26,TIME
+2024-08-09,"""Men's 400m Hurdles""",M,Athletics,DUCOS Clement,Person,FRA,France,47.76,TIME
+2024-08-09,"""Men's 400m Hurdles""",M,Athletics,SAMBA Abderrahman,Person,QAT,Qatar,47.98,TIME
+2024-08-09,"""Men's 400m Hurdles""",M,Athletics,MAGI Rasmus,Person,EST,Estonia,52.53,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,INGEBRIGTSEN Jakob,Person,NOR,Norway,793.7,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,KWEMOI Ronald,Person,KEN,Kenya,795,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,FISHER Grant,Person,USA,United States,795.1,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,LOBALU Dominic Lokinyomo,Person,EOR,EOR,795.3,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,GEBRHIWET Hagos,Person,ETH,Ethiopia,795.3,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,MEHARY Biniam,Person,ETH,Ethiopia,796,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,KURGAT Edwin,Person,KEN,Kenya,797.2,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,KIMELI Isaac,Person,BEL,Belgium,798.1,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,BLANKS Graham,Person,USA,United States,798.7,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,KROP Jacob,Person,KEN,Kenya,798.7,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,HEYMANS John,Person,BEL,Belgium,799.2,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,SCHRUB Yann,Person,FRA,France,800.6,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,FOPPEN Mike,Person,NED,Netherlands,801.6,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,YIHUNE Addisu,Person,ETH,Ethiopia,802.3,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,NDIKUMWENAYO Thierry,Person,ESP,Spain,804.1,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,HAY Hugo,Person,FRA,France,806.7,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,NORDAS Narve Gilje,Person,NOR,Norway,811.3,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,McSWEYN Stewart,Person,AUS,Australia,811.4,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,SEARE Dawit,Person,ERI,Eritrea,811.5,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,CHELIMO Oscar,Person,UGA,Uganda,811.6,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,MILLS George,Person,GBR,Great Britain,812.3,TIME
+2024-08-10,"""Men's 5000m""",M,Athletics,FAFARD Thomas,Person,CAN,Canada,829.7,TIME
+2024-08-10,"""Men's 800m""",M,Athletics,WANYONYI Emmanuel,Person,KEN,Kenya,101.2,TIME
+2024-08-10,"""Men's 800m""",M,Athletics,AROP Marco,Person,CAN,Canada,101.2,TIME
+2024-08-10,"""Men's 800m""",M,Athletics,SEDJATI Djamel,Person,ALG,Algeria,102.5,TIME
+2024-08-10,"""Men's 800m""",M,Athletics,HOPPEL Bryce,Person,USA,United States,101.7,TIME
+2024-08-10,"""Men's 800m""",M,Athletics,ATTAOUI Mohamed,Person,ESP,Spain,102.1,TIME
+2024-08-10,"""Men's 800m""",M,Athletics,TUAL Gabriel,Person,FRA,France,102.1,TIME
+2024-08-10,"""Men's 800m""",M,Athletics,MASALELA Tshepiso,Person,BOT,Botswana,102.8,TIME
+2024-08-10,"""Men's 800m""",M,Athletics,BURGIN Max,Person,GBR,Great Britain,103.8,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,TOLA Tamirat,Person,ETH,Ethiopia,7586,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,ABDI Bashir,Person,BEL,Belgium,7607,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,KIPRUTO Benson,Person,KEN,Kenya,7620,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,CAIRESS Emile,Person,GBR,Great Britain,7649,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,GELETA Deresa,Person,ETH,Ethiopia,7651,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,AKASAKI Akira,Person,JPN,Japan,7652,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,RAMAKONGOANA Tebello,Person,LES,Lesotho,7678,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,MANTZ Conner,Person,USA,United States,7692,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,YOUNG Clayton,Person,USA,United States,7724,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,AMARE Samsom,Person,ERI,Eritrea,7736,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,GELANT Elroy,Person,RSA,South Africa,7747,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,RINGER Richard,Person,GER,Germany,7758,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,OSAKO Suguru,Person,JPN,Japan,7765,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,HASSAN Ibrahim,Person,DJI,Djibouti,7771,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,FITWI SIBHATU Samuel,Person,GER,Germany,7790,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,NAVARRO Nicolas,Person,FRA,France,7796,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,SIMBU Alphonce Felix,Person,TAN,Tanzania,7803,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,EL GOUMRI Othmane,Person,MAR,Morocco,7806,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,MPOFU Isaac,Person,ZIM,Zimbabwe,7809,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,CHAHDI Hassan,Person,FRA,France,7809,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,MUNYAO Alexander,Person,KEN,Kenya,7831,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,SOMERS Michael,Person,BEL,Belgium,7832,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,KOYAMA Naoki,Person,JPN,Japan,7833,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,TIERNAN Patrick,Person,AUS,Australia,7834,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,CRIPPA Yemaneberhan,Person,ITA,Italy,7836,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,TEFERI Maru,Person,ISR,Israel,7842,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,MOKOKA Stephen,Person,RSA,South Africa,7859,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,HASSAN Suldan,Person,SWE,Sweden,7881,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,HAN Il Ryong,Person,PRK,DPR Korea,7881,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,KYBURZ Matthias,Person,SUI,Switzerland,7892,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,AYALE Gashau,Person,ISR,Israel,7896,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,MOEN Sondre Nordstad,Person,NOR,Norway,7899,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,ABDALLA Yaseen,Person,SUD,Sudan,7901,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,CHAKIR Ibrahim,Person,ESP,Spain,7904,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,TALBI Zouhair,Person,MAR,Morocco,7911,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,LEVINS Cameron,Person,CAN,Canada,7916,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,KIPLANGAT Victor,Person,UGA,Uganda,7919,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,ABRAHAM Tadesse,Person,SUI,Switzerland,7942,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,BEKELE Kenenisa,Person,ETH,Ethiopia,7944,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,WU Xiangdong,Person,CHN,China,7954,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,ROJO Yago,Person,ESP,Spain,7963,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,GABRIYESOS Tachlowini,Person,EOR,EOR,7967,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,FANIEL Eyob,Person,ITA,Italy,7970,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,AMARE Girmaw,Person,ISR,Israel,7971,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,BUCHANAN Andrew,Person,AUS,Australia,7978,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,SESEMANN Philip,Person,GBR,Great Britain,7988,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,LINKLETTER Rory,Person,CAN,Canada,7989,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,BARATA Samuel,Person,POR,Portugal,8003,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,ADAMS Liam,Person,AUS,Australia,8013,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,BOUR Felix,Person,FRA,France,8026,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,MEUCCI Daniele,Person,ITA,Italy,8042,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,MEZNGI Zerei Kbrom,Person,NOR,Norway,8054,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,DIAZ Carlos,Person,CHI,Chile,8065,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,TESFAY Henok,Person,ERI,Eritrea,8071,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,YANG Shaohui,Person,CHN,China,8088,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,FREIRE Samuel,Person,CPV,Cabo Verde,8105,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,MAHAMED Mahamed,Person,GBR,Great Britain,8119,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,CHOUKOUD Khalid,Person,NED,Netherlands,8125,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,CATRILEO Hugo,Person,CHI,Chile,8144,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,GARIBAY Hector,Person,BOL,Bolivia,8154,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,NAERT Koen,Person,BEL,Belgium,8193,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,KWEMOI Andrew Rotich,Person,UGA,Uganda,8248,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,KORIR Leonard,Person,USA,United States,8325,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,TESFAY Berhane,Person,ERI,Eritrea,8330,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,ALKHAWALDEH Moath,Person,JOR,Jordan,8401,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,GONZALEZ MINDEZ Alberto,Person,GUA,Guatemala,8532,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,HE Jie,Person,CHN,China,8551,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,NOVALES Tariku,Person,ESP,Spain,8750,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,IVANOVSKI Dario,Person,MKD,North Macedonia,8895,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,BETOUDJI Valentin,Person,CHA,Chad,9131,TIME
+2024-08-10,"""Men's Marathon""",M,Athletics,BAT-OCHIR Ser-Od,Person,MGL,Mongolia,9753,TIME
+2024-08-03,"""Women's 100m""",W,Athletics,ALFRED Julien,Person,LCA,Saint Lucia,10.72,TIME
+2024-08-03,"""Women's 100m""",W,Athletics,RICHARDSON Sha'carri,Person,USA,United States,10.87,TIME
+2024-08-03,"""Women's 100m""",W,Athletics,JEFFERSON Melissa,Person,USA,United States,10.92,TIME
+2024-08-03,"""Women's 100m""",W,Athletics,NEITA Daryll,Person,GBR,Great Britain,10.96,TIME
+2024-08-03,"""Women's 100m""",W,Athletics,TERRY Twanisha,Person,USA,United States,10.97,TIME
+2024-08-03,"""Women's 100m""",W,Athletics,KAMBUNDJI Mujinga,Person,SUI,Switzerland,10.99,TIME
+2024-08-03,"""Women's 100m""",W,Athletics,CLAYTON Tia,Person,JAM,Jamaica,11.04,TIME
+2024-08-03,"""Women's 100m""",W,Athletics,TA LOU-SMITH Marie-Josee,Person,CIV,Côte d'Ivoire,13.84,TIME
+2024-08-10,"""Women's 100m Hurdles""",W,Athletics,RUSSELL Masai,Person,USA,United States,12.33,TIME
+2024-08-10,"""Women's 100m Hurdles""",W,Athletics,SAMBA-MAYELA Cyrena,Person,FRA,France,12.34,TIME
+2024-08-10,"""Women's 100m Hurdles""",W,Athletics,CAMACHO-QUINN Jasmine,Person,PUR,Puerto Rico,12.36,TIME
+2024-08-10,"""Women's 100m Hurdles""",W,Athletics,VISSER Nadine,Person,NED,Netherlands,12.43,TIME
+2024-08-10,"""Women's 100m Hurdles""",W,Athletics,STARK Grace,Person,USA,United States,12.43,TIME
+2024-08-10,"""Women's 100m Hurdles""",W,Athletics,CHARLTON Devynne,Person,BAH,Bahamas,12.56,TIME
+2024-08-10,"""Women's 100m Hurdles""",W,Athletics,JOHNSON Alaysha,Person,USA,United States,12.93,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,KIPYEGON Faith,Person,KEN,Kenya,231.3,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,HULL Jessica,Person,AUS,Australia,232.6,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,BELL Georgia,Person,GBR,Great Britain,232.6,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,WELTEJI Diribe,Person,ETH,Ethiopia,232.7,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,MUIR Laura,Person,GBR,Great Britain,233.4,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,EJORE Susan Lokayo,Person,KEN,Kenya,236.1,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,HILTZ Nikki,Person,USA,United States,236.4,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,ST. PIERRE Elle,Person,USA,United States,238.5,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,GUILLEMOT Agathe,Person,FRA,France,239.1,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,KAZIMIERSKA Klaudia,Person,POL,Poland,240.1,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,MARQUES Agueda,Person,ESP,Spain,240.3,TIME
+2024-08-10,"""Women's 1500m""",W,Athletics,TSEGAY Gudaf,Person,ETH,Ethiopia,241.3,TIME
+2024-08-06,"""Women's 200m""",W,Athletics,THOMAS Gabrielle,Person,USA,United States,21.83,TIME
+2024-08-06,"""Women's 200m""",W,Athletics,ALFRED Julien,Person,LCA,Saint Lucia,22.08,TIME
+2024-08-06,"""Women's 200m""",W,Athletics,BROWN Brittany,Person,USA,United States,22.2,TIME
+2024-08-06,"""Women's 200m""",W,Athletics,ASHER-SMITH Dina,Person,GBR,Great Britain,22.22,TIME
+2024-08-06,"""Women's 200m""",W,Athletics,NEITA Daryll,Person,GBR,Great Britain,22.23,TIME
+2024-08-06,"""Women's 200m""",W,Athletics,OFILI Favour,Person,NGR,Nigeria,22.24,TIME
+2024-08-06,"""Women's 200m""",W,Athletics,LONG McKenzie,Person,USA,United States,22.42,TIME
+2024-08-06,"""Women's 200m""",W,Athletics,GBAI Jessika,Person,CIV,Côte d'Ivoire,22.7,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,YANG Jiayu,Person,CHN,China,5154,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,PEREZ Maria,Person,ESP,Spain,5179,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,MONTAG Jemima,Person,AUS,Australia,5185,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,ARENAS Lorena,Person,COL,Colombia,5223,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,GONZALEZ Alegna,Person,MEX,Mexico,5234,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,MOREJON Glenda,Person,ECU,Ecuador,5257,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,GARCIA-CARO Laura,Person,ESP,Spain,5292,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,INGA Evelyn,Person,PER,Peru,5296,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,TORRES Paula Milena,Person,ECU,Ecuador,5328,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,MONTESINOS Cristina,Person,ESP,Spain,5351,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,MA Zhenxia,Person,CHN,China,5355,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,ANDIA Mary Luz,Person,PER,Peru,5364,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,SENA Erica,Person,BRA,Brazil,5372,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,OLYANOVSKA Lyudmila,Person,UKR,Ukraine,5395,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,BERETTA Clemence,Person,FRA,France,5395,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,GARCIA LEON Kimberly,Person,PER,Peru,5410,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,SAKHARUK Mariia,Person,UKR,Ukraine,5412,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,LYRA Viviane,Person,BRA,Brazil,5431,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,BONILLA Magaly Beatriz,Person,ECU,Ecuador,5433,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,SOBCHUK Olena,Person,UKR,Ukraine,5472,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,LIU Hong,Person,CHN,China,5484,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,NTRISMPIOTI Antigoni,Person,GRE,Greece,5493,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,GIORGI Eleonora Anna,Person,ITA,Italy,5509,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,ORTEGA Alejandra,Person,MEX,Mexico,5518,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,MOUTARD Camille,Person,FRA,France,5518,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,STEY Pauline,Person,FRA,France,5519,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,MARTINKOVA Eliska,Person,CZE,Czechia,5550,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,FEIGE Saskia,Person,GER,Germany,5603,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,de ORBETA Rachelle,Person,PUR,Puerto Rico,5613,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,ZDZIEBLO Katarzyna,Person,POL,Poland,5632,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,HENDERSON Rebecca,Person,AUS,Australia,5662,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,FUJII Nanako,Person,JPN,Japan,5666,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,RECSEI Rita,Person,HUN,Hungary,5679,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,KATERINKA CZAKOVA Maria,Person,SVK,Slovakia,5686,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,TRAPLETTI Valentina,Person,ITA,Italy,5739,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,de SOUSA Gabriela,Person,BRA,Brazil,5750,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,BURZALOVA Hana,Person,SVK,Slovakia,5772,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,OLIVEIRA Vitoria,Person,POR,Portugal,5782,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,GUERRERO Ilse,Person,MEX,Mexico,5830,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,BEKMEZ Meryem,Person,TUR,Turkey,5886,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,PRIYANKA,Person,IND,India,5995,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,MADARASZ Viktoria,Person,HUN,Hungary,6081,TIME
+2024-08-01,"""Women's 20km Race Walk""",W,Athletics,CABECINHA Ana,Person,POR,Portugal,6390,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,YAVI Winfred,Person,BRN,Bahrain,532.8,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,CHEMUTAI Peruth,Person,UGA,Uganda,533.3,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,CHEROTICH Faith,Person,KEN,Kenya,535.1,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,FINOT Alice,Person,FRA,France,538.7,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,ALMAYEW Sembo,Person,ETH,Ethiopia,540.8,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,CHEPKOECH Beatrice,Person,KEN,Kenya,544.2,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,BIRD Elizabeth,Person,GBR,Great Britain,544.4,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,MULETA Lomi,Person,ETH,Ethiopia,546.1,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,JERUTO Norah,Person,KAZ,Kazakhstan,549,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,MEYER Lea,Person,GER,Germany,549.6,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,SANCHEZ-ESCRIBANO Irene,Person,ESP,Spain,550.4,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,WAYMENT Courtney,Person,USA,United States,553.6,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,KONIECZEK Alicja,Person,POL,Poland,561.3,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,KRAUSE Gesa Felicitas,Person,GER,Germany,567,TIME
+2024-08-06,"""Women's 3000m Steeplechase""",W,Athletics,CONSTIEN Valerie,Person,USA,United States,574.1,TIME
+2024-08-09,"""Women's 4 x 100m Relay""",W,Athletics,United States of America,Team,USA,United States,41.78,TIME
+2024-08-09,"""Women's 4 x 100m Relay""",W,Athletics,Great Britain,Team,GBR,Great Britain,41.85,TIME
+2024-08-09,"""Women's 4 x 100m Relay""",W,Athletics,Germany,Team,GER,Germany,41.97,TIME
+2024-08-09,"""Women's 4 x 100m Relay""",W,Athletics,France,Team,FRA,France,42.23,TIME
+2024-08-09,"""Women's 4 x 100m Relay""",W,Athletics,Jamaica,Team,JAM,Jamaica,42.29,TIME
+2024-08-09,"""Women's 4 x 100m Relay""",W,Athletics,Canada,Team,CAN,Canada,42.69,TIME
+2024-08-09,"""Women's 4 x 100m Relay""",W,Athletics,Netherlands,Team,NED,Netherlands,42.74,TIME
+2024-08-10,"""Women's 4 x 400m Relay""",W,Athletics,United States of America,Team,USA,United States,195.3,TIME
+2024-08-10,"""Women's 4 x 400m Relay""",W,Athletics,Netherlands,Team,NED,Netherlands,200.5,TIME
+2024-08-10,"""Women's 4 x 400m Relay""",W,Athletics,Great Britain,Team,GBR,Great Britain,199.7,TIME
+2024-08-10,"""Women's 4 x 400m Relay""",W,Athletics,Ireland,Team,IRL,Ireland,199.9,TIME
+2024-08-10,"""Women's 4 x 400m Relay""",W,Athletics,France,Team,FRA,France,201.4,TIME
+2024-08-10,"""Women's 4 x 400m Relay""",W,Athletics,Canada,Team,CAN,Canada,202,TIME
+2024-08-10,"""Women's 4 x 400m Relay""",W,Athletics,Belgium,Team,BEL,Belgium,202.4,TIME
+2024-08-09,"""Women's 400m""",W,Athletics,PAULINO Marileidy,Person,DOM,Dominican Republic,48.17,TIME
+2024-08-09,"""Women's 400m""",W,Athletics,NASER Salwa Eid,Person,BRN,Bahrain,48.53,TIME
+2024-08-09,"""Women's 400m""",W,Athletics,KACZMAREK Natalia,Person,POL,Poland,48.98,TIME
+2024-08-09,"""Women's 400m""",W,Athletics,ADELEKE Rhasidat,Person,IRL,Ireland,49.28,TIME
+2024-08-09,"""Women's 400m""",W,Athletics,ANNING Amber,Person,GBR,Great Britain,49.29,TIME
+2024-08-09,"""Women's 400m""",W,Athletics,HOLMES Alexis,Person,USA,United States,49.77,TIME
+2024-08-09,"""Women's 400m""",W,Athletics,WILLIAMS Sada,Person,BAR,Barbados,49.83,TIME
+2024-08-09,"""Women's 400m""",W,Athletics,JAEGER Henriette,Person,NOR,Norway,49.96,TIME
+2024-08-08,"""Women's 400m Hurdles""",W,Athletics,McLAUGHLIN-LEVRONE Sydney,Person,USA,United States,50.37,TIME
+2024-08-08,"""Women's 400m Hurdles""",W,Athletics,COCKRELL Anna,Person,USA,United States,51.87,TIME
+2024-08-08,"""Women's 400m Hurdles""",W,Athletics,BOL Femke,Person,NED,Netherlands,52.15,TIME
+2024-08-08,"""Women's 400m Hurdles""",W,Athletics,JONES Jasmine,Person,USA,United States,52.29,TIME
+2024-08-08,"""Women's 400m Hurdles""",W,Athletics,CLAYTON Rushell,Person,JAM,Jamaica,52.68,TIME
+2024-08-08,"""Women's 400m Hurdles""",W,Athletics,SALMON Shiann,Person,JAM,Jamaica,53.29,TIME
+2024-08-08,"""Women's 400m Hurdles""",W,Athletics,SUTHERLAND Savannah,Person,CAN,Canada,53.88,TIME
+2024-08-08,"""Women's 400m Hurdles""",W,Athletics,MARAVAL Louise,Person,FRA,France,54.53,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,CHEBET Beatrice,Person,KEN,Kenya,868.6,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,KIPYEGON Faith,Person,KEN,Kenya,869.6,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,HASSAN Sifan,Person,NED,Netherlands,870.6,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,BATTOCLETTI Nadia,Person,ITA,Italy,871.6,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,KIPKEMBOI Margaret Chelimo,Person,KEN,Kenya,872.2,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,TAYE Ejgayehu,Person,ETH,Ethiopia,873,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,EISA Medina,Person,ETH,Ethiopia,875.4,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,GROVDAL Karoline Bjerkeli,Person,NOR,Norway,883.2,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,TSEGAY Gudaf,Person,ETH,Ethiopia,885.2,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,SCHWEIZER Karissa,Person,USA,United States,885.6,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,CRANNY Elise,Person,USA,United States,888.1,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,DAVIES Rose,Person,AUS,Australia,889.7,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,BLOMQVIST Nathalie,Person,FIN,Finland,893.1,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,MORGAN Whittni,Person,USA,United States,893.6,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,BREA Joselyn Daniely,Person,VEN,Venezuela,917,TIME
+2024-08-06,"""Women's 5000m""",W,Athletics,NIYOMUKUNZI Francine,Person,BDI,Burundi,922.4,TIME
+2024-08-05,"""Women's 800m""",W,Athletics,HODGKINSON Keely,Person,GBR,Great Britain,116.7,TIME
+2024-08-05,"""Women's 800m""",W,Athletics,DUGUMA Tsige,Person,ETH,Ethiopia,117.2,TIME
+2024-08-05,"""Women's 800m""",W,Athletics,MORAA Mary,Person,KEN,Kenya,117.4,TIME
+2024-08-05,"""Women's 800m""",W,Athletics,MALONEY Shafiqua,Person,VIN,StVincent&Grenadines,117.7,TIME
+2024-08-05,"""Women's 800m""",W,Athletics,LAMOTE Renelle,Person,FRA,France,118.2,TIME
+2024-08-05,"""Women's 800m""",W,Athletics,MESELE Worknesh,Person,ETH,Ethiopia,118.3,TIME
+2024-08-05,"""Women's 800m""",W,Athletics,WHITTAKER Juliette,Person,USA,United States,118.5,TIME
+2024-08-05,"""Women's 800m""",W,Athletics,SEKGODISO Prudence,Person,RSA,South Africa,118.8,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,HASSAN Sifan,Person,NED,Netherlands,8575,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,ASSEFA Tigst,Person,ETH,Ethiopia,8578,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,OBIRI Hellen,Person,KEN,Kenya,8590,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,LOKEDI Sharon,Person,KEN,Kenya,8594,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SHANKULE Amane Beriso,Person,ETH,Ethiopia,8637,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SUZUKI Yuka,Person,JPN,Japan,8642,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,MERINGOR Delvine Relin,Person,ROU,Romania,8696,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,CHESANG Stella,Person,UGA,Uganda,8761,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SALPETER Lonah Chemtai,Person,ISR,Israel,8768,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,CHUMBA Eunice Chebichii,Person,BRN,Bahrain,8770,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,GARDADI Fatima Ezzahra,Person,MAR,Morocco,8790,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,LINDWURM Dakotah,Person,USA,United States,8804,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,STENSON Jessica,Person,AUS,Australia,8805,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,TROFIMOVA Sardana,Person,KGZ,Kyrgyzstan,8807,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,JEPCHIRCHIR Peres,Person,KEN,Kenya,8811,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SCHLUMPF Fabienne,Person,SUI,Switzerland,8890,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,MAAYOUF Majida,Person,ESP,Spain,8915,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,VALDIVIA Thalia,Person,PER,Peru,8941,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,VERBRUGGEN Hanne,Person,BEL,Belgium,8943,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,WOLDU Mekdes,Person,FRA,France,8960,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,BORELLI Florencia,Person,ARG,Argentina,8969,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,BEKELE Helen,Person,SUI,Switzerland,8983,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SISSON Emily,Person,USA,United States,8993,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,GREGSON Genevieve,Person,AUS,Australia,8996,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SOLER Meritxell,Person,ESP,Spain,8996,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,HROCHOVA Tereza,Person,CZE,Czechia,9000,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,CRISTIAN MOSCOTE Citlali,Person,MEX,Mexico,9003,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,McCORMACK Fionnuala,Person,IRL,Ireland,9012,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,MAYER Domenika,Person,GER,Germany,9014,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,YAREMCHUK Sofiia,Person,ITA,Italy,9020,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,MAKATISI Mokulubete Blandina,Person,LES,Lesotho,9020,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,OLDKNOW Cian,Person,RSA,South Africa,9029,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,MAMAZHANOVA Zhanna,Person,KAZ,Kazakhstan,9051,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,GASHAW Tigist,Person,BRN,Bahrain,9053,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,ELMORE Malindi,Person,CAN,Canada,9068,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,LISOWSKA Aleksandra,Person,POL,Poland,9070,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,van ZYL Irvette,Person,RSA,South Africa,9074,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,HOTTENROTT Laura,Person,GER,Germany,9079,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,FARKOUSSI Kaoutar,Person,MAR,Morocco,9094,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SHAURI Magdalena,Person,TAN,Tanzania,9118,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,OCAMPO Daiana,Person,ARG,Argentina,9122,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,NAVARRETE Esther,Person,ESP,Spain,9127,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,CHELIMO Rose,Person,BRN,Bahrain,9128,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,CHEPTEGEI Rebecca,Person,UGA,Uganda,9134,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,STEYN Gerda,Person,RSA,South Africa,9171,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,EVANS Clara,Person,GBR,Great Britain,9181,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,GALBADRAKH Khishigsaikhan,Person,MGL,Mongolia,9206,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,BAYARTSOGT Munkhzaya,Person,MGL,Mongolia,9207,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,TIYOURI Maor,Person,ISR,Israel,9217,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,LUIJTEN Anne,Person,NED,Netherlands,9222,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,ICHIYAMA Mao,Person,JPN,Japan,9253,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,WIKSTROM Carolina,Person,SWE,Sweden,9260,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,GRANJA Mary Zenaida,Person,ECU,Ecuador,9274,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,PERRIER Marie,Person,MRI,Mauritius,9296,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,MAYER Julia,Person,AUT,Austria,9314,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,TEJEDA Gladys,Person,PER,Peru,9336,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SANTOS Susana,Person,POR,Portugal,9357,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,TESFU Dolshi,Person,ERI,Eritrea,9390,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,ZHANG Deshun,Person,CHN,China,9407,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,FRENCH Camille,Person,NZL,New Zealand,9441,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,ORTIZ MOROCHO Silvia Patricia,Person,ECU,Ecuador,9443,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,ROJAS Luz Mery,Person,PER,Peru,9444,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,HERNANDEZ FLORES Margarita,Person,MEX,Mexico,9444,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,MACH Angelika,Person,POL,Poland,9476,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,RICHARDSSON Camilla,Person,FIN,Finland,9482,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,STEWARTOVA Moira,Person,CZE,Czechia,9487,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,EPIS Giovanna,Person,ITA,Italy,9506,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,JOHANNES Helalia,Person,NAM,Namibia,9516,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,CHELANGAT Mercyline,Person,UGA,Uganda,9580,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,ROLLIN Meline,Person,FRA,France,9617,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,BJELJAC Bojana,Person,CRO,Croatia,9673,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,XIA Yuyu,Person,CHN,China,9730,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,CHACHA Rosa Alva,Person,ECU,Ecuador,9734,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,JULIEN Melody,Person,FRA,France,9752,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,ORJUELA Angie,Person,COL,Colombia,9777,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,BAI Li,Person,CHN,China,9884,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,MUKANDANGA Clementine,Person,RWA,Rwanda,9940,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,HARVEY Rose,Person,GBR,Great Britain,10263,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,SHRESTHA Shantoshi,Person,NEP,Nepal,10506,TIME
+2024-08-11,"""Women's Marathon""",W,Athletics,LHAMO Kinzang,Person,BHU,Bhutan,13979,TIME
