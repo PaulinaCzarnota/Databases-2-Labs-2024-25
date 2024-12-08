@@ -2,7 +2,7 @@ This repository contains a collection of labs from the Databases 2 module in my 
 
 # Lab Summaries 
 
-# *Labs 1 to 5 focus on essential topics in database design, advanced SQL techniques, query optimization, and data structuring using PostgreSQL on DBeaver.*
+### *Labs 1 to 5 focus on essential topics in database design, advanced SQL techniques, query optimization, and data structuring using PostgreSQL on DBeaver.*
 
 ### Lab 1: Relational Database Design
 Explored core concepts in database modeling, including entity-relationship (ER) diagrams, relational modeling, and the physical implementation of these models in PostgreSQL.
@@ -36,7 +36,7 @@ Examined B-tree indexing and data structures, focusing on the role of balanced t
 2. **Ordered Tree Insertion**: Compared simple ordered tree insertions (without balancing) to B-trees, examining how balanced versus unbalanced structures impact efficiency.
 3. **B-tree Analysis**: Analyzed storage and retrieval differences between balanced B-trees and simple ordered trees, highlighting the advantages of indexing for large datasets.
 
-# *Labs 6 to 9 explore advanced database concepts such as integrating external APIs, managing NoSQL data with PostgreSQL, using MongoDB, and building graph databases with Neo4j.*
+### *Labs 6 to 9 explore advanced database concepts such as integrating external APIs, managing NoSQL data with PostgreSQL, using MongoDB, and building graph databases with Neo4j.*
 
 ### Lab 6: PostgreSQL, Python, and External APIs
 This lab focused on integrating PostgreSQL with Python and external APIs to process and analyze song lyrics from different eras (2023 vs. 1982).
